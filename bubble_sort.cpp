@@ -38,7 +38,7 @@ void bubble_sort(int data[], const int size)
 		{
 			if(data[j] > data[j + 1])
 			{
-				std::swap(data[j], data[j+1]);
+				swap(data[j], data[j+1]);
 			}
 		}
 	}
