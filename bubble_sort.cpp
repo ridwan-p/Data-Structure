@@ -43,5 +43,3 @@ void bubble_sort(int data[], const int size)
 		}
 	}
 }
-
-dicoba
