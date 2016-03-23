@@ -16,7 +16,7 @@ int main()
 	bubble_sort(data, SIZE);
 	
 	std::cout << "data urut : " ;
-	for(int i = 0; i < SIZE; i++)
+	forg(int i = 0; i < SIZE; i++)
 		std::cout<< i << " ";
 	std::cout << std::endl;
 	
@@ -43,3 +43,5 @@ void bubble_sort(int data[], const int size)
 		}
 	}
 }
+
+dicoba
